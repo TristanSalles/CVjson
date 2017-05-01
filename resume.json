@@ -1,0 +1,255 @@
+{
+  "basics": {
+    "name": "Dr Tristan Salles",
+    "label": "Research Scientist - Quantitative Geosciences",
+    "picture": "",
+    "email": "sallestaing@gmail.com",
+    "phone": "(61) 4 5146-2502",
+    "website": "http://johndoe.com",
+    "summary": "Research in computational geosciences with application areas in sediment transport dynamics, Earth surface evolution, deep time interactions between climate, ocean, and geomorphology. Expert in quantitave methods based on forward modelling, data query, transformation & visualisation, algorithm design, and parallelism  implementation. ",
+    "citizenship": "French/Australian",
+    "location": {
+      "address": "20 Wilson St, 2035 Maroubra",
+      "city": "Sydney",
+      "countryCode": "Australia",
+      "region": "NSW"
+    },
+    "profiles": [
+    {
+      "network": "LinkedIn",
+      "username": "sallestristan",
+      "url": "http://www.linkedin.com/in/sallestristan"
+    },
+    {
+      "network": "Github",
+      "username": "tristan-salles",
+      "url": "https://github.com/tristan-salles"
+    },
+    {
+      "network": "Twitter",
+      "username": "salles_tristan",
+      "url": "http://twitter.com/salles_tristan"
+    }
+  ]
+  },
+
+  "work": [{
+    "company": "The University of Sydney",
+    "position": "Lecturer School of Geosciences",
+    "website": "http://sydney.edu.au/science/people/tristan.salles.php",
+    "startDate": "2015-02-01",
+    "summary": "[EarthByte](https://www.earthbyte.org) & [Geocoastal](https://grgusyd.org) Research Groups \n Permanent Academic Staff - 40% _Research_, 40% _Teaching_ & 20% _Administration_ \n  Part of my teaching can be found [@ GeosLearn](https://geoslearn.github.io)",
+    "highlights": [
+      "HPC model of coupled sediment-ocean-wave modelling system at geological scale",
+      "Parallel finite volume model to study landscape dynamics",
+      "Ecological model of climate change impact on coral reefs evolution (integrated fuzzy logic/finite element method)",
+      "Open Learning initiative: Data Science - Analysing and plotting data with R & Python",
+      "Faculty of Science ICT Committee Research Representative",
+      "Supervision of PhDs, Honours, Research Assistants & Developers"
+    ]
+  },
+  {
+    "company": "CSIRO Mineral Resources",
+    "position": "Senior Research Scientist",
+    "website": "https://www.csiro.au/en/Research/MRF",
+    "startDate": "2011-05-01",
+    "endDate": "2015-02-01",
+    "summary": "Technical Algorithms Team \n Project leader for HPC Geosciences projects - \n Software architect in charge of the development of coupled geophysical framework",
+    "highlights": [
+      "Software architect: implementation of an Advance Earth Dynamic Coalescence Framework using ESMF standard",
+      "Integrated Stratigraphy/Seismic Probing/Data Assimilation",
+      "Parallel surface process model: conception & development under CSIRO Science Innovation Fund"
+    ]
+  },
+  {
+    "company": "CSIRO Energy",
+    "position": "Research Scientist",
+    "website": "https://www.csiro.au/en/Research/EF",
+    "startDate": "2008-03-01",
+    "endDate": "2011-05-01",
+    "summary": "Predictive Geoscience Group \n Worked on the implementation of new parallel algorithms to simulate Earth Surface evolution over millions of years \n Designed workflow to visualise 3D Geological dataset",
+    "highlights": [
+      "Design and development of a parallel Lagrangian hydrodynamic model",
+      "Parallel 3D visualisation based on Hdf5, XmF and XdmF formats for geophysical dataset",
+      "Quantitative estimation of sea-level and halokinetics variations impact on mini-basin filling"
+    ]
+  },
+  {
+    "company": "CSIRO Wealth from Ocean Flagship",
+    "position": "Postdoctoral Fellow",
+    "website": "https://www.csiro.au/en/Research/OandA",
+    "startDate": "2007-02-01",
+    "endDate": "2008-03-01",
+    "summary": "Design and development of new capabilities in CSIRO Stratigraphic Forward Modelling software \n Quantitative seabed evolution under climate change and its implications for coastal resources and infrastructure management",
+    "highlights": [
+      "Development of an aeolian module based on Cellular Automata paradigm",
+      "Predictive assessment of how climate change influences long-term regional seabed responses",
+      "Mathematical model of compaction and diagenesis using predictor/corrector implicit finite-difference method"
+    ]
+  },
+  {
+    "company": "EDF R&D LNHE",
+    "position": "Internship",
+    "website": "https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development",
+    "startDate": "2002-03-01",
+    "endDate": "2002-09-01",
+    "summary": "Laboratory model design and scaling \n Numerical evaluation of wave forcings on offshore wind piles",
+    "highlights": [
+      "Data processing and upscaling",
+      "Wave flume tank experimental model",
+      "Numerical wave modelling"
+    ]
+  }],
+
+  "volunteer": [{
+    "organization": "Surf Life Saving Australia",
+    "position": "Surf Life Saver",
+    "website": "https://sls.com.au",
+    "startDate": "2012-09-01",
+    "summary": "Patrolling Maroubra Beach and participating in lifesaving operations",
+    "highlights": [
+      "Awarded 'Bronze Medaillon / Certificate II in Public Safety' (Aquatic Rescue)"
+    ]
+  }],
+
+  "education": [{
+    "institution": "University of Sydney",
+    "area": "Educational Studies",
+    "studyType": "Graduate Certificate (Higher Education)",
+    "startDate": "2017-02-01"
+  },
+  {
+    "institution": "IFPEN/University of Bordeaux",
+    "area": "Computational Geosciences",
+    "studyType": "PhD",
+    "startDate": "2003-09-01",
+    "endDate": "2006-10-01",
+    "gpa": "Modelling sub-marine canyons and meandering channels using a genetic approach",
+    "courses": [
+      "Navier-Stokes equations",
+      "Lattice-Boltzmann methods",
+      "Cellular Automata approach"
+    ]
+  },
+  {
+    "institution": "University of Aix-Marseille II",
+    "area": "Physical Oceanography",
+    "studyType": "Master of Science",
+    "startDate": "2002-09-01",
+    "endDate": "2003-08-01",
+    "gpa": "HD - This formation provides solid knowledge in Oceanography & Coastal numerical modelling",
+    "courses": [
+      "Marine/environmental science",
+      "Coastal dynamics",
+      "Turbulence",
+      "Remote detection"
+    ]
+  },
+  {
+    "institution": "Ecole Centrale Marseille",
+    "area": "Marine Engineering",
+    "studyType": "Bachelor of Science & Master of Engineering",
+    "startDate": "2000-09-01",
+    "endDate": "2003-08-01",
+    "gpa": "Hons - Multi-disciplinary formation that provides solid knowledge in Mathematics & Physics",
+    "courses": [
+      "Ocean hydrodynamics",
+      "Computational physics",
+      "Numerical methods",
+      "Experimental hydrodynamics"
+    ]
+  }],
+
+  "awards": [{
+    "title": "Scientific Mobility Fund",
+    "date": "2017-06-15",
+    "awarder": "University of Bergen (Norway)",
+    "summary": "Visiting scientist Statoil Academic Agreement"
+  },
+  {
+    "title": "Scientific Mobility Fund",
+    "date": "2016-06-15",
+    "awarder": "University of Bergen (Norway)",
+    "summary": "Visiting scientist Statoil Academic Agreement"
+  },
+  {
+    "title": "CIFRE Top-up Scholarship",
+    "date": "2003-01-09",
+    "awarder": "IFPEN",
+    "summary": "3-years competitive research grant from IFPEN "
+  },
+  {
+    "title": "ANRT Scholarship",
+    "date": "2003-01-09",
+    "awarder": "French Government",
+    "summary": "3-years competitive Education & Research funding from the French Government"
+  }],
+
+  "publications": [{
+    "name": "Publications",
+    "publisher": "Complete list",
+    "releaseDate": "2018",
+    "website": "http://orcid.org/0000-0001-6095-7689",
+    "summary": "Other sources: \n + [*ORCID*](http://orcid.org/0000-0001-6095-7689) \n + [*ResearchGate*](https://www.researchgate.net/profile/Tristan_Salles) \n + [*GoogleScholar*](https://scholar.google.com.au/citations?user=UnmpGx8AAAAJ&hl=en)"
+  }],
+
+  "skills": [
+  {
+    "name": "Programming",
+    "level": "Master",
+    "keywords": [
+      "Fortran, Python, C",
+      "XML, CSS, HTML",
+      "MPI"
+    ]
+  },
+  {
+    "name": "Visualisation & Data Query",
+    "level": "Master",
+    "keywords": [
+      "VTK, NetCDF",
+      "HDF5, XMF, XDMF",
+      "OpenDAP, THREDDS"
+    ]
+  },
+  {
+    "name": "Computational Geometry",
+    "level": "Master",
+    "keywords": [
+      "Triangular Irregular Network",
+      "Voronoi Diagram",
+      "Adaptive Mesh Refinment"
+    ]
+  },
+  {
+    "name": "Deployment",
+    "level": "Master",
+    "keywords": [
+      "Docker container",
+      "Amazon web service",
+      "Jupyter notebook"
+    ]
+  }],
+
+  "languages": [{
+    "language": "French",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "English",
+    "fluency": "Fluent"
+  }],
+
+  "interests": [{
+    "name": "Outdoor",
+    "keywords": [
+      "Running",
+      "Hiking",
+      "Surfing"
+    ]
+  }],
+
+  "references": [{
+    "name": "Available upon request"
+  }]
+}
