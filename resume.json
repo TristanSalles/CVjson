@@ -5,7 +5,7 @@
     "picture": "",
     "email": "sallestaing@gmail.com",
     "phone": "(61) 4 5146-2502",
-    "website": "http://johndoe.com",
+    "website": "https://tristansalles.github.io",
     "summary": "Research in computational geosciences with application areas in sediment transport dynamics, Earth surface evolution, deep time interactions between climate, ocean, and geomorphology. Expert in quantitave methods based on forward modelling, data query, transformation & visualisation, algorithm design, and parallelism  implementation. ",
     "citizenship": "French/Australian",
     "location": {
@@ -186,7 +186,7 @@
   }],
 
   "publications": [{
-    "name": "Publications",
+    "name": "Peer-Reviewed Publications",
     "publisher": "Complete list",
     "releaseDate": "2018",
     "website": "http://orcid.org/0000-0001-6095-7689",
